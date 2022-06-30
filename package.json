@@ -1,0 +1,23 @@
+{
+  "name": "eslint",
+  "version": "1.0.0",
+  "description": "----\r ### O que é eslint?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvioclipper/eslint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvioclipper/eslint/issues"
+  },
+  "homepage": "https://github.com/silvioclipper/eslint#readme",
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  }
+}
